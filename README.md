@@ -1,3 +1,4 @@
+## EX 01 Eligibility-for-Admission
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course
 
@@ -17,8 +18,8 @@ Step 6 : Using Nested if loop check whether the student is eligible or not eligi
 Step 7 : Print the result.
 
 ## Program:
-Name : KAVIYA SHREE S
 
+Name : KAVIYA SHREE S
 Reg no : 212222110018
 ```
 using System;
